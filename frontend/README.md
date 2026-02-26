@@ -441,4 +441,4 @@ MIT
 
 ## 👤 Author
 
-Knowledge Sharing Platform Frontend - Built with React, TipTap, and Modern Web Technologies
+Knowledge Sharing Platform Frontend - Built with React and Modern Web Technologies
